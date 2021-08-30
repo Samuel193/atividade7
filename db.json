@@ -1,0 +1,31 @@
+{
+    "products": [
+      {
+        "titulo": "Tenis",
+        "categoria": "Calcados",
+        "modelo" : "Nike Air Jordan",
+        "quantidade": "100",
+        "preco" : "499,00",
+        "img": "https://m.media-amazon.com/images/I/51SKAYTHtrL._AC_SY395_.jpg",
+        "id": "1"
+      },
+      {
+        "titulo": "Camisa",
+        "categoria": "Vestuario",
+        "modelo" : "Camisa Gola polo",
+        "quantidade": "300",
+        "preco" : "99,00",
+        "img": "https://cdn.awsli.com.br/600x450/7/7624/produto/13797907/41ef936243.jpg",
+        "id": "2"
+      },
+      {
+        "titulo": "Chuteira",
+        "categoria": "Esportes",
+        "modelo" : "Chuteira Adidas",
+        "quantidade": "150",
+        "preco" : "299,00",
+        "img": "https://assets.adidas.com/images/w_600,f_auto,q_auto/7848642ebc11400586abab9700b37753_9366/Chuteira_Predator_Mutator_20+_Campo_Branco_FW9176_01_standard.jpg",
+        "id": "N568JR4"
+      }
+    ]
+  }
